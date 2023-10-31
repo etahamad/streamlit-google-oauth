@@ -3,7 +3,7 @@ An example [Streamlit](https://streamlit.io/) application that incorporates Goog
 
 ## PIP
 ```bash
-pip install git+https://github.com/hunkim/streamlit-google-oauth
+pip install git+https://github.com/etahamad/streamlit-google-oauth
 ```
 
 ## Setup Google OAuth client ID
